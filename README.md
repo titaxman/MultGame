@@ -12,4 +12,9 @@ Reach me at gustavohmsilva[at]member.fsf.org
 ***This game is under BY-CC Creative Commons Attribution 4.0 International License.***
 
 
-***Version 0.1***
+***Version 0.2***
+
+***Changelog:***
+
+* Two game modes implemented, so the student can vary their practice.
+* Software migrated from continuous code to seperate procedures.
